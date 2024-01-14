@@ -1,14 +1,14 @@
-{
+    "description": "My Project Hosted on Github Pages",
+
     "domain": "is-local.org",
-    "subdomain": "net3na",
+    "subdomain": "_github-pages-challenge-Marsi591.net3na",
 
     "owner": {
-        "email": "marsi591707@gmail.com"
-    },
+        "repo": "https://github.com/narmis-e/portfolio",
 
     "record": {
-        "A": ["185.206.180.80"]
+        "CNAME": "marsi591.github.io/net3na/"
+        "TXT": "2aa418f9a76e3ef8401d1bd28cd8a8"
     },
 
     "proxied": false
-}
